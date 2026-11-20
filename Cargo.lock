@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "p01_fizzbuzz"
 version = "0.1.0"
+
+[[package]]
+name = "p02_palindrome"
+version = "0.1.0"

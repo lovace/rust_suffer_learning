@@ -2,4 +2,5 @@
 resolver = "3"
 members = [
     "exercises/p01_fizzbuzz",
+    "exercises/p02_palindrome",
 ]
